@@ -1,6 +1,6 @@
 About me
 
-🎓 CS @ Texas A&M University<br />
+🎓 Texas A&M University<br />
 🔬 Passionate about Web, Mobile Development<br />
 
 <!---
