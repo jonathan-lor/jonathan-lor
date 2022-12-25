@@ -1,7 +1,7 @@
 About me
 
 🎓 Texas A&M University<br />
-🔬 Passionate about Web, Mobile Development<br />
+🔬 Passionate about Web Technologies, Automation, and Design<br />
 
 <!---
 jonathan-lor/jonathan-lor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
