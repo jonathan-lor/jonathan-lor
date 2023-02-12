@@ -1,9 +1,9 @@
-About me
+## Howdy! 🤠 I'm Jonathan.
 
-🎓 Texas A&M University<br />
-🔬 Passionate about Web Technologies, Automation, and Design<br />
+- 🎓 Texas A&M University<br />
+- 🔬 Passionate about frontend development, web applications, & automation<br />
 
-<!---
-jonathan-lor/jonathan-lor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathan-lor&show_icons=true&layout=compact&theme=cobalt&count_private=true&hide_rank=true"" alt="Jonathan's Github Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lor&show_icons=true&layout=compact&theme=cobalt&count_private=true" alt="Jonathan's Languages" />
+</p>
