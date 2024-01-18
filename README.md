@@ -1,6 +1,6 @@
 ## hello i am jonathan :D
 
-<h4>- studying at texas a&m university. prev @ tesla</h4>
+<h4>- studying at texas a&m university</h4>
 <h4>- passionate about backend and data</h4>
 
 <p>
