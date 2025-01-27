@@ -1,6 +1,6 @@
 ## hello i am jonathan :D
 
-<h4>- @ texas a&m university</h4>
+<h4>@ texas a&m university</h4>
 
 
 <p>
